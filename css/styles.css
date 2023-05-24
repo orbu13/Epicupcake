@@ -1,0 +1,38 @@
+
+.intro {
+  color: rgba(181, 227, 120, 0.221);
+}
+*{
+  text-align: center;
+}
+  #best {
+  color: #ec7cb2;
+  font-size:xx-large ;
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+img{
+  height: 300px;
+}
+.flashy
+ {color: red; 
+  font-style: italic;
+  font-size: x-large;
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+
+}
+.body {
+  background-image: url("https://cdn.shopify.com/s/files/1/0259/9124/9994/files/stoked-excited-min_480x480.gif?v=1644444363");
+  width: 1000px;
+  height:750;
+  background-color: #610707;
+ }
+
+ .turtle{ color:aqua;}
